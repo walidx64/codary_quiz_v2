@@ -2,6 +2,12 @@
 
 Quiz App
 
+![](https://github.com/walidx64/codary_quiz_v2/blob/main/ScreenShot/quizAPP.png)
+![](https://github.com/walidx64/codary_quiz_v2/blob/main/ScreenShot/1.png)
+![](https://github.com/walidx64/codary_quiz_v2/blob/main/ScreenShot/2.png)
+![](https://github.com/walidx64/codary_quiz_v2/blob/main/ScreenShot/3.png)
+![](https://github.com/walidx64/codary_quiz_v2/blob/main/ScreenShot/4.png)
+
 ## Getting Started
 
 
